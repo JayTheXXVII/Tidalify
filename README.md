@@ -7,6 +7,6 @@ Simple CSS to emulate Spotify
 3. - In Neptune Settings / Themes, Copy/Paste `https://jaythexxvii.github.io/Tidalify/Tidalify.css` into the Import Prompt
 
 # Screenshots
-|RevertX2 with RTL Side Bar|
+|Tidalify|
 |---|
 |![Screenshot of Tidalify](https://jaythexxvii.github.io/Assets/Tidalify.png)|
