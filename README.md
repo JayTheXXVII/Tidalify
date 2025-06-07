@@ -3,7 +3,7 @@ Simple CSS to emulate Spotify
 
 # Installation
 1. - Install [Tidal](https://tidal.com/download)
-2. - Install [TidaLuna]([https://github.com/uwu/neptune](https://github.com/Inrixia/TidaLuna))  
+2. - Install [TidaLuna](https://github.com/Inrixia/TidaLuna)  
 3. - In Neptune Settings / Themes, Copy/Paste `https://jaythexxvii.github.io/Tidalify/Tidalify.css` into the Import Prompt
 
 # Screenshots
