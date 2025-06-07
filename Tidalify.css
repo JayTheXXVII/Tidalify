@@ -32,7 +32,7 @@
 ._bar_5b9ac59 {-webkit-app-region: drag; background-color: transparent !important; height: 30px;}
 ._sidebarWrapper_2f256ce, ._contentArea_cf918f9, ._main_a5d9f44 {max-height: 105%; padding-top: 30px; margin-top: -30px;}
 ._container_e9ecf79, ._searchAndLinks_2e32c39 {flex: 0; z-index: 1001 !important; app-region: no-drag;}
-._title_a453dad:after {content: 'LIFY';}
+._title_a453dad:after {content: 'LIFY'; margin-left: -2px;}
 /*Hide LunaBeta*/
 ._title_a453dad span{display: none !important;}
 /*Bottom Bar*/
